@@ -5,8 +5,14 @@ Simple paint app for the Arduino UNO MCU TFT LCD Shield.
 --------------Still W.I.P---------------
 ----------------------------------------
 
+<b>Features:</b>
+- 24 colors ( will be more in the future )
+- Configurable brush size
+- Clear screen action with confirmation to avoid accidental screen clearing
+- -MORE IN THE FUTURE!-
 
-Usage:
+
+<b>Usage:</b>
 - Install MCUFRIEND library
 - Load sketch into Arduino IDE and upload to your board with shield attached.
 
