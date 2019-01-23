@@ -9,6 +9,7 @@ Simple paint app for the Arduino UNO MCU TFT LCD Shield.
 - 24 colors ( will be more in the future )
 - Configurable brush size
 - Clear screen action with confirmation to avoid accidental screen clearing
+- Fill screen with one color
 - -MORE IN THE FUTURE!-
 
 
